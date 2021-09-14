@@ -23,15 +23,4 @@ public class Main {
 
     }
 
-    private static void salaryUp(Employee e1){
-
-
-
-
-    }
-
-
-
-
-
 }
